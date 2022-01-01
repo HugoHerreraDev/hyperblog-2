@@ -11,5 +11,6 @@ En este curso vemos de todo
 * Las personalidades múltiples de Freddy
 * Creado por el increíble Hugo Herrera
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
  como un amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas hasta acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/clases/1557-git-github "a ver el curso").
